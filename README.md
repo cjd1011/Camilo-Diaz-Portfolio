@@ -1,5 +1,6 @@
+#Camilo Diaz Portfolio
 
-# Camilo J Diaz C
+# About Me
 *Working in Business Intelligence and creating educational content*
 
 # Education

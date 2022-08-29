@@ -29,7 +29,7 @@ In this tutorial we automate payment receipts for employees.
 Photo by <a href="https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Muza</a> on <a href="https://unsplash.com/s/photos/income-statement?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Tool used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+In this tutorial you will learn how to create an Income Statement in Power BI 
+* **Tool used:** Power BI, Zebra BI
+* **Input:** Database in Excel
+* **Output:** A complete Income Statement created in Zebra BI visual

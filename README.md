@@ -1,7 +1,6 @@
 # Camilo Diaz
 
 # About Me
-
 *Working in Business Intelligence and creating educational content*
 
 # Education

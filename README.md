@@ -7,7 +7,8 @@
 # YouTube Channel
 * **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
 
-# **Links Page:** https://cjd1011-links-page-streamlit-app-rn3uxa.streamlitapp.com/
+# Links Page:
+* https://cjd1011-links-page-streamlit-app-rn3uxa.streamlitapp.com/
 
 # My Best Projects!!
 

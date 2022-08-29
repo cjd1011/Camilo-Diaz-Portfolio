@@ -4,6 +4,11 @@
 # Education
 * Professional in Business Administration, 2014-2019
 
+# YouTube Channel
+* **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
+
+# My Best Projects!!
+
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
 
